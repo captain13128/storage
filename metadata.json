@@ -1,0 +1,12 @@
+{
+   "description":"TEST",
+   "external_url":"https://mylink.com",
+   "image":"https://mylink.com/metadata/0",
+   "name":"TEST",
+   "attributes":[
+      {
+         "trait_type":"state",
+         "value":"gold"
+      }
+   ]
+}
