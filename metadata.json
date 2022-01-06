@@ -1,12 +1,7 @@
 {
    "description":"TEST",
-   "external_url":"https://mylink.com",
-   "image":"https://mylink.com/metadata/0",
+   "external_url":"https://github.com/captain13128/storage",
+   "image":"https://github.com/captain13128/storage/raw/main/box.mp4",
    "name":"TEST",
-   "attributes":[
-      {
-         "trait_type":"state",
-         "value":"gold"
-      }
-   ]
+   "attributes":[]
 }
